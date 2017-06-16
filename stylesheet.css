@@ -1,0 +1,36 @@
+h1 {
+  color: black;
+}
+
+
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 110px;
+}
+
+img {
+    display: block;
+    margin: auto;
+
+    background-color: grey;
+}
+
+
+.button {
+    background-color: #ffe4c4; 
+    border: none;
+    color: white;
+    padding:30px 48px;
+    text-align: center;
+    text-decoration: none ;
+    display: inline-block;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.buttonss {
+	margin: auto;
+	text-align: center;
+}
